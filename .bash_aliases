@@ -14,3 +14,4 @@ alias blog='cd hacking/mcfreely.github.com'
 
 # Git commands
 alias gstatus='git status'
+alias add='git add ."
