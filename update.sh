@@ -9,3 +9,7 @@ cp ~/.conkyrc ~/hacking/dotfiles
 
 # Commit
 git add . && git commit -m "Update $(date)"
+
+# Push
+
+git push origin master
