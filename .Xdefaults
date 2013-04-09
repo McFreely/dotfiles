@@ -1,0 +1,52 @@
+Xcursor.theme:    Vanilla-DMZ-AA
+
+! fonts
+! run "fc-list" for a list of available fonts
+URxvt*font: xft:Monospace:pixelsize=13
+
+URxvt*scrollBar: False
+URxvt*scrollTtyOutput: False
+URxvt*scrollTtyKeypress: True
+URxvt*secondaryScroll: True
+URxvt*saveLines: 8000
+
+URxvt*cursorBlink: true
+URxvt*cursorUnderline: true
+
+URxvt*foreground: #6FA5C7
+URxvt*background: #3E3E3E
+
+URxvt*transparent: true
+URxvt*shading: 30
+
+!BLACK
+*color0:      #3E3E3E
+*color8:    #525252
+
+!RED
+*color1:         #CF516E
+*color9:         #E87B94
+
+!GREEN
+*color2:         #799351
+*color10:        #8fa966
+
+!YELLOW
+*color3:         #ccc855
+*color11:        #d1c78e
+
+!BLUE
+*color12:        #A4c9e0
+*color4:         #6FA5C7
+
+!MAGENTA
+*color5:          #b374a7
+*color13:        #d1a3c8
+
+!CYAN
+*color6:         #75a692
+*color14:        #89bca7
+
+!WHITE
+*color7:        #BBBBBB
+*color15:        #EEEEEE
