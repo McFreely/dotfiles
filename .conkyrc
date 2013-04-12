@@ -14,13 +14,13 @@
 ##############################################
 # Settings
 ##############################################
-background yes
+#background yes
 use_xft yes
 xftfont Liberation Sans:size=9
 xftalpha 1
 update_interval 1.0
 total_run_times 0
-own_window no
+own_window yes
 own_window_transparent yes
 own_window_type desktop
 #own_window_argb_visual yes
@@ -56,8 +56,7 @@ Disk usage:$alignr${fs_used /}/${fs_size /}
 
 P R O C E S S O R S
 ${hr}
-${cpugraph cpu0}
-CPU: ${cpu cpu0}% ${cpubar cpu0}
+
 
 T O P  P R O C E S S E S 
 ${hr}
