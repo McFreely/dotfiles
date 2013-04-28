@@ -20,4 +20,7 @@ alias blog='cd ~/hacking/mcfreely.github.com'
 alias gstatus='git status'
 
 # Misc commands
-alias jekauto='jekyll --server --auto'
+alias jekauto='jekyll --server --auto' 
+
+# System commands
+alias sleep="sudo pm-suspend"

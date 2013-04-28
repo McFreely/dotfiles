@@ -79,5 +79,6 @@ ULS:${upspeed wlan0} kb/s $alignr total: ${totalup wlan0}
 
 S H O R T C U T    K E Y S
 ${hr}
-To be completed with
-Awesome keyboard shortcuts...
+M-l  $alignr Increment window
+M-h  $alignr Decrement window
+M-C-n  $alignr Reset all windows
