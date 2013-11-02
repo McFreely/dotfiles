@@ -20,7 +20,12 @@ alias blog='cd ~/hacking/mcfreely.github.com'
 alias gstatus='git status'
 
 # Misc commands
+alias chicken="csi"
 alias jekauto='jekyll --server --auto' 
 
 # System commands
 alias sleep="sudo pm-suspend"
+
+# Screen Gestion
+alias OneScreen="xrandr --output LVDS-1"
+alias TwoScreen="xrandr --output HDMI-1 --mode 1280x720 --output LVDS-1 --left-of HDMI-1"
